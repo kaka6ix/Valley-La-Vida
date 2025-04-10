@@ -87,7 +87,7 @@
   </section>  <section class="container">
     <!-- 10 Produk -->
     <div class="product">
-      ![alt text](?raw=true)
+      ![alt text](https://github.com/kaka6ix/Valley-La-Vida/blob/55472f7a92fdf79a4c4dd6e2bc437753d10add59/1744250866506.jpg?raw=true)
       <h3>Kemeja Linen Putih</h3>
       <p>Rp 199.000</p>
       <button class="btn">Beli Sekarang</button>
