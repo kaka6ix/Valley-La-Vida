@@ -150,4 +150,4 @@
     <p>&copy; 2025 Toko Pakaian Putih. Semua hak dilindungi.</p>
   </footer>
 </body>
-</html>
+
