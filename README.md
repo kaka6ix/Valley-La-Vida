@@ -71,7 +71,7 @@
     <h1>Make your choice</h1>
     <p>Tampilan bersih, gaya elegan</p>
   </header>  <section class="features">
-    <h2>Fitur-Fitur</h2>
+    <h2>PUSING GW ANJINGGGG</h2>
     <ul>
       <li>Pencarian Produk</li>
       <li>Filter Ukuran & Harga</li>
