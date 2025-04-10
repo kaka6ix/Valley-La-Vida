@@ -87,7 +87,7 @@
   </section>  <section class="container">
     <!-- 10 Produk -->
     <div class="product">
-      <img src="https://via.placeholder.com/250x300?text=Baju+1" alt="Baju 1">
+      <img src="https://github.com/kaka6ix/Valley-La-Vida/blob/bb8de3eb788d7d7a9fe34d1345d2ee0e1debd45e/1744250883663.jpg/250x300?text=Baju+1" alt="Baju 1">
       <h3>Kemeja Linen Putih</h3>
       <p>Rp 199.000</p>
       <button class="btn">Beli Sekarang</button>
