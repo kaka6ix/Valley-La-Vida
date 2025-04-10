@@ -7,7 +7,7 @@
   <style>
     body {
       margin: 0;
-      font-family: sans-serif;
+      font-family: alakazam;
       background-color: white;
       color: #333;
     }
@@ -17,12 +17,15 @@
       text-align: center;
     }
     .container {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      display: flex;
+      flex-direction: column;
       gap: 1rem;
       padding: 1rem;
+      align-items: center;
     }
     .product {
+      width: 90%;
+      max-width: 400px;
       border: 1px solid #ddd;
       border-radius: 10px;
       overflow: hidden;
