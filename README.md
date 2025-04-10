@@ -65,7 +65,7 @@
 </head>
 <body>
   <header>
-    <h1>Toko Pakaian Nuansa Putih</h1>
+    <h1>Make your choice</h1>
     <p>Tampilan bersih, gaya elegan</p>
   </header>  <section class="features">
     <h2>Fitur-Fitur</h2>
