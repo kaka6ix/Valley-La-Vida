@@ -93,7 +93,7 @@
       <button class="btn">Beli Sekarang</button>
     </div>
     <div class="product">
-      <img src="https://via.placeholder.com/250x300?text=Baju+2" alt="Baju 2">
+      <img src="https://github.com/kaka6ix/Valley-La-Vida/blob/a4e6bdf65f75cb039013af6aa3a4e471cabe1759/1744250835702.jpg/250x300?text=Baju+2" alt="Baju 2">
       <h3>Kaos Katun Putih</h3>
       <p>Rp 99.000</p>
       <button class="btn">Beli Sekarang</button>
