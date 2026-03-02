@@ -68,10 +68,10 @@
 </head>
 <body>
   <header>
-    <h1>Make your choice</h1>
+    <h1>RAHAY NGAKU NABIII</h1>
     <p>Tampilan bersih, gaya elegan</p>
   </header>  <section class="features">
-    <h2>RAHAY ASUK</h2>
+    <h2>AWAS SUKA NONTON BIGMO</h2>
     <ul>
       <li>Pencarian Produk</li>
       <li>Filter Ukuran & Harga</li>
